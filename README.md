@@ -1,2 +1,2 @@
-# THP-validant1
-Projet validant n°1 de THP
+Hello ! 
+This is a test to see how it works
